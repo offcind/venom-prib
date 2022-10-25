@@ -1,6 +1,6 @@
 /**
-   * Create By CILO THE BOT
-   * Base by Dika Ardnt
+   * Create By HamzBotz
+   * Base by Venom Private
 */
 
 require('./config')
