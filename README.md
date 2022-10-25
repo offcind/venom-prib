@@ -1,6 +1,6 @@
 # CATATAN ( NOTE )
-Script ori - DikaArdnt
-Recode - The Jo Bot
+Script ori - Venom Private
+Recode - Hamz Botz
 
 Jangan dijual kontol!!!
 Gw yg capek lu yg jual yg hanya tinggal nyomot dan rename.
@@ -8,9 +8,9 @@ Kalau cuma rename anak esde jg bisa.
 Rename sewajarnyalah!!!
 Di TQ TO nama gw jgn dihapus bangsat.
 
-Best Regards. The Jo Bot
+Best Regards. Hamz botz
 
-# THE_JO_BOT
+# Venom-Private
 Script WhatsApp Bot Multi Device
 
 ## NOTE
@@ -94,6 +94,7 @@ Get Apikey zenz on [`zenz`](https://zenzapi.xyz/pricing)
 * [`Fatih Arridho`](https://github.com/FatihArridho)
 * [`zhwzein`](https://github.com/zhwzein)
 * [`CAF-ID`](https://github.com/CAF-ID)
+* [`bintang`](https://github.com/rizki-b)
 * [`bintang`](https://github.com/Bintangp02)
 
 ```Thanks to all who have participated in the development of this script```
@@ -101,7 +102,7 @@ Get Apikey zenz on [`zenz`](https://zenzapi.xyz/pricing)
 
 License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
 
-Support DikaArdnt
-* [`Paypal`](https://www.paypal.me/Cakhaho)
-* [`Saweria`](https://saweria.co/DikaArdnt)
-# botmdjo
+Support HamzBotz
+* [`Paypal`](-)
+* [`Saweria`](-)
+# HamzBotz
